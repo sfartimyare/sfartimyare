@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sadiq!
-- 👀 I work in Desktop Support and practice code in my free time.
+- 👀 I work in Desktop Support and practice code on my free time.
 - 🌱 I’m currently learning Javascript and strolling through the Odin Project and udemy courses!
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
